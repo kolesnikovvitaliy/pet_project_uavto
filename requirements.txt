@@ -1,0 +1,13 @@
+click
+et-xmlfile
+numpy
+openpyxl
+PyMsgBox
+PyQt5
+pyqt5-plugins
+PyQt5-Qt5
+PyQt5-sip
+pyqt5-tools
+python-dotenv
+qt5-applications
+qt5-tools
