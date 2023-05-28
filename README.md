@@ -1,12 +1,12 @@
 ### Прототип комерческого приложения по учету автомобильной и техники специального назначения. 
 #
-
+<div>
 <img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_uavto/blob/main/img/Программа.png" width="500"/>
-
-# 
+</div>
+<div>
 <img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_uavto/blob/main/img/Главный_интерфейс_программы.png" width="500"/>
+</div>
 
-# 
 <img align="right" src="https://github.com/kolesnikovvitaliy/pet_project_uavto/blob/main/img/Описание_интерфейса.png" width="500"/>
 
 # 
